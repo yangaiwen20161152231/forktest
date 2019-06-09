@@ -43,18 +43,16 @@ fork的使用说明
 # 三、分支内容修改和删除
 ## 1.对fork的内容进行操作前，需要保持库为最新版本，先更新自己的分支，因为要从主仓库更新所以逻辑顺序是(主-->从)
 ## 先点击New pull request进入拉取请求界面
-* ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/1.png)
+![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/1.png)
 ## 注意如果没有分支选项先点击①compare across forks
 ## ②红色框里是主仓库文件，③黄色框是你自己的Fork库文件，注意顺序，然后输入备注和说明一路点击绿色按钮提交完
-* ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/2.png)
+ ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/2.png)
 ## 2. 注意如果本地fork依然没有更新，看一下自己页面上有没有拉取请求，自己同意一下拉取请求
-* ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/3.png)
-* 
+ ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/3.png)
 ## 找到自己刚刚提交的记录
-* ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/4.png)
-* 
+ ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/4.png)
 ## 确定合并
-* ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/5.png)
+ ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/5.png)
 ## 最后看一下自己的库是否已经更新
 ## 3.进入你的本地库文件夹，右键gitbash从github上快速合并更新代码
 - $ git pull origin master
