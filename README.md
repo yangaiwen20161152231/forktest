@@ -46,8 +46,10 @@ fork的使用说明
 * 注意如果没有分支选项先点击compare across forks
 * 红色框里是主仓库文件，黄色框是你自己的Fork库文件，注意顺序，然后输入备注和说明一路点击绿色按钮提交完
 * ![](https://raw.githubusercontent.com/lnkDrop/forktest/master/img/xiugai/2.png)
-## 2.进入你的本地库文件夹，右键gitbash从github上快速合并更新代码
+## 2. 注意如果本地fork依然没有更新，看一下自己页面上有没有拉取请求，自己同意一下拉取请求
+* ![]()
+## 3.进入你的本地库文件夹，右键gitbash从github上快速合并更新代码
 - $ git pull origin master
-## 3.进行你的修改操作，完成后重复第二条的步骤并提交，通知我确定合并以后即可完成主仓库更新。
+## 4.进行你的修改操作，完成后重复第二条的步骤并提交，通知我确定合并以后即可完成主仓库更新。
 
 ---
